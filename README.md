@@ -28,7 +28,7 @@ The JS Applications course, teaches about what **HTTP** requests are and how to 
 - Promises Deep Dive
 - Async/Await
 
-## <p id="rdad">Remote Data and Authentication</p>
+## <p id="rda">Remote Data and Authentication</p>
 - Managing Remote Data
 - HTML Forms
 - CRUD Operations
