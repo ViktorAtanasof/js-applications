@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # JS Applications course
 
 The JS Applications course, teaches about what **HTTP** requests are and how to use them. It provides knowledge about **REST** services, what **BaaS (Backend-as-a- Service)** is and how to work with it, what asynchronous code means **(Promises, using async/await)**, what **Templating** and **Routing** are. During the course the students will create a **Single Page Application (SPA)** using the techniques learned in previous lectures on which they will be assessed. They will understand what is the architecture of an application and how to properly structure their applications. By the end of the course, students will explore different design patterns and their practical guidelines, create their own web components using the **Web Components** standard, and build a **Webpack** environment from scratch.
@@ -63,3 +65,5 @@ The JS Applications course, teaches about what **HTTP** requests are and how to 
 - HTML Templates and Slots
 - Component Lifecycle
 - Extending HTML Elements
+
+(<a href="#top">back to top</a>)
